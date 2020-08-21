@@ -26,6 +26,6 @@
 
  ![mrayush](https://github-readme-stats.vercel.app/api?username=mrayush&show_icons=true)
 
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://www.instagram.com/1mr.ayushgupta
+[instagram]: https://www.instagram.com/1mr.ayushgupta
+[linkedin]: https://www.linkedin.com/in/mrayush
  
